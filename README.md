@@ -1,6 +1,6 @@
-# Darsh
+# Hi there Hello
 
-ECE undergrad at Shiv Nadar University. Interested in low-level systems,
+Darsh, ECE undergrad at Shiv Nadar University. Interested in low-level systems,
 security, and the messy parts of finance.
 
 **Currently learning:** C deeply, Sec+ fundamentals, Python automation
