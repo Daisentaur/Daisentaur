@@ -11,4 +11,4 @@ security, and the messy parts of finance.
 **Eventually want to:** do red team work somewhere in Europe
 
 
-Find me at [link text](https://daisentaur.dev) or reach me via the email on this profile.
+Find me at [daisentaur.dev](https://daisentaur.dev) or reach me via the email on this profile.
