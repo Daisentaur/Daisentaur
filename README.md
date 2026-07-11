@@ -4,7 +4,7 @@ Darsh, ECE undergrad at Shiv Nadar University. Interested in low-level systems,
 security, and the messy parts of finance.
 
 
-**Currently learning:** C deeply, Sec+ fundamentals, Python automation
+**Currently learning:** C deeply, Sec+ fundamentals, Python automation and just getting into Rust
 
 **Currently building:** A Password Manager from scratch cause i can't afford roboform
 
