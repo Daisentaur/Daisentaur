@@ -6,7 +6,7 @@ security, and the messy parts of finance.
 
 **Currently learning:** C deeply, Sec+ fundamentals, Python automation and just getting into Rust
 
-**Currently building:** 3 interlinked projects in a series I've named Hound all 3 of these things will be up and running soon-ish.
+**Currently building:** small git tools, might see what they lead to. bigger projects coming soon
 
 **Eventually want to:** do red team work somewhere in Europe 
 
